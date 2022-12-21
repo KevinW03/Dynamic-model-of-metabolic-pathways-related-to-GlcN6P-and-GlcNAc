@@ -4,4 +4,4 @@
 - The relative concentrations of the concerned metabolites or the relative fluxes in the concerned pathways are represented by x(1)-x(9), and the reaction rates for each step of the enzymatic reaction are represented as v(1)-v(11). The Km parameters of all enzymes were randomly sampled between 0.5 and 1.5, resulting in an average Km of 1, and the maximal reaction rates (vmax) were set to represent the overexpression, weakening, and knocking-out of the pathway as shown in the codes. Michaelis–Menten kinetics is used to describe the reactions kinetics of reactions.
 - The toolbox boundedline.m is needed to plot line with shaded error (https://github.com/kakearney/boundedline-pkg/).
 
-*Reference: CRISPR–dCas12a-mediated genetic circuit cascades for multiplexed pathway optimization (doi.org/10.1038/s41589-022-01230-0)*
+*Reference: CRISPR–dCas12a-mediated genetic circuit cascades for multiplexed pathway optimization (https://doi.org/10.1038/s41589-022-01230-0)*
